@@ -1,0 +1,19 @@
+.App-header{
+    text-align: center;
+}
+
+.App{
+    text-align: center;
+    background-color: rgb(63, 18, 185);
+    color: white;
+    padding: 20px;
+}
+.bar{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: rgb(30, 120, 30);
+    color: white;
+    padding: 3px;
+}
